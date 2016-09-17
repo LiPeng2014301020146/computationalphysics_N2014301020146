@@ -1,7 +1,7 @@
 # computationalphysics_N2014301020146
 ##Homework List
-* [Exercise_01：计算物理入门作业](https://www.zybuluo.com/LP2014301020146/note/497912)
-* [Exercise_02:用字母拼出自己的英文名字](https://www.zybuluo.com/LP2014301020146/note/503939)
+* [Exercise_01: 计算物理入门作业](https://www.zybuluo.com/LP2014301020146/note/497912)
+* [Exercise_02: 用字母拼出自己的英文名字](https://www.zybuluo.com/LP2014301020146/note/503939)
 * [Exercise_03]()
 * [Exercise_04]()
 * [Exercise_05]()
