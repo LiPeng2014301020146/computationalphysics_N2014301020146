@@ -2,7 +2,7 @@
 ##Homework List
 * [Exercise_01: 计算物理入门作业](https://www.zybuluo.com/LP2014301020146/note/497912)
 * [Exercise_02: 用字母拼出自己的英文名字](https://www.zybuluo.com/LP2014301020146/note/503939)
-* [Exercise_03]()
+* [Exercise_03: 移动的名字、转动的大风车和飞行的小火箭](https://www.zybuluo.com/LP2014301020146/note/512859)
 * [Exercise_04]()
 * [Exercise_05]()
 * [Exercise_06]()
