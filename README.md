@@ -12,6 +12,6 @@
 * [Exercise_09: Exercise 3.31 Square table with a circular interior wall](https://www.zybuluo.com/LP2014301020146/note/573331)
 * [Exercise_10: Exercise 4.9 the orbits of the planetary motion](https://www.zybuluo.com/LP2014301020146/note/581106)
 * [Exercise_11: Exercise 4.29 model for Hyperion](https://www.zybuluo.com/LP2014301020146/note/589803)
-* [Exercise_12]()
+* [Exercise_12: Exercise 5.3 potential of the capacitor](https://www.zybuluo.com/LP2014301020146/note/597644)
 * [Exercise_13]()
 * [Exercise_14]()
