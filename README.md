@@ -1,5 +1,5 @@
 # computationalphysics_N2014301020146
-欢迎同学来进行代码的交流，不过，谢绝对其他作业内容的复制，截屏！！！
+
 ##Homework List
 * [Exercise_01: 计算物理入门作业](https://www.zybuluo.com/LP2014301020146/note/497912)
 * [Exercise_02: 用字母拼出自己的英文名字](https://www.zybuluo.com/LP2014301020146/note/503939)
@@ -13,5 +13,5 @@
 * [Exercise_10: Exercise 4.9 the orbits of the planetary motion](https://www.zybuluo.com/LP2014301020146/note/581106)
 * [Exercise_11: Exercise 4.29 model for Hyperion](https://www.zybuluo.com/LP2014301020146/note/589803)
 * [Exercise_12: Exercise 5.3 potential of the capacitor](https://www.zybuluo.com/LP2014301020146/note/597644)
-* [Exercise_13]()
-* [Exercise_14]()
+* [Exercise_13: Exercise 6.12 initial displacement with two straight lines](https://www.zybuluo.com/LP2014301020146/note/604811)
+
