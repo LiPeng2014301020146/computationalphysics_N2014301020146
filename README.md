@@ -14,4 +14,4 @@
 * [Exercise_11: Exercise 4.29 model for Hyperion](https://www.zybuluo.com/LP2014301020146/note/589803)
 * [Exercise_12: Exercise 5.3 potential of the capacitor](https://www.zybuluo.com/LP2014301020146/note/597644)
 * [Exercise_13: Exercise 6.12 initial displacement with two straight lines](https://www.zybuluo.com/LP2014301020146/note/604811)
-
+* [Final Paper: Random walks](https://www.zybuluo.com/LP2014301020146/note/619346)
